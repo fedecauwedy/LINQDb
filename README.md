@@ -9,5 +9,5 @@ Questo progetto ha lo scopo di visualizzare i dati di una tabella DB\
 6. prima di procedere con la scrittura del codice è necessario aggiungere la libreria sqlite, per farlo occore andare nel temrminale \
 7. e scrivere: 
 8. ###
-9. dotnet add package sqlite-net-pcl
+9.    dotnet add package sqlite-net-pcl
 10. ###
