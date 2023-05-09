@@ -11,6 +11,8 @@ Questo progetto ha lo scopo di visualizzare i dati di una tabella DB\
 8. ora si può procedere con la scrittura del codice\
 9. per visualizzare gli artisti in ordine la riga di codice da scrivere è la seguente:
 ###
-   var temporanea = tblArtists.OrderByDescending(x=> x.Name).Max(y => y.ArtistId);
+    var temporanea = tblArtists.OrderByDescending(x=> x.Name).Max(y => y.ArtistId);
 ###
+
+
 
